@@ -1,0 +1,14 @@
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\bin\Debug\net7.0\dice-game.exe
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\bin\Debug\net7.0\dice-game.deps.json
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\bin\Debug\net7.0\dice-game.runtimeconfig.json
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\bin\Debug\net7.0\dice-game.dll
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\bin\Debug\net7.0\dice-game.pdb
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\obj\Debug\net7.0\dice-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\obj\Debug\net7.0\dice-game.AssemblyInfoInputs.cache
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\obj\Debug\net7.0\dice-game.AssemblyInfo.cs
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\obj\Debug\net7.0\dice-game.csproj.CoreCompileInputs.cache
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\obj\Debug\net7.0\dice-game.dll
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\obj\Debug\net7.0\refint\dice-game.dll
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\obj\Debug\net7.0\dice-game.pdb
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\obj\Debug\net7.0\dice-game.genruntimeconfig.cache
+C:\Users\Sterre\Desktop\coding\visual-studio-thingy-megingy\dice-game\dice-game\obj\Debug\net7.0\ref\dice-game.dll
